@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Allow: /hakkimizda
+Allow: /hizmetler
+Allow: /projeler
+Allow: /projeler/lamartine-oteli
+Allow: /projeler/hilton-palazzo-donizetti
+Allow: /projeler/etiler-ergin-apartmani
+Allow: /projeler/ajda-pekkan-bodrum-evi
+Allow: /projeler/vadi-istanbul-konutlari
+Allow: /projeler/moxy-marriott-oteli
+Allow: /projeler/avcilar-belediyesi-sergi-salonu
+Allow: /projeler/bayram-pasa-wish-more-hotel
+Allow: /projeler/mandarin-oriental
+Allow: /galeri
+Allow: /iletisim
+Disallow: /kvkk
+
+Sitemap: https://example.com/sitemap.xml
