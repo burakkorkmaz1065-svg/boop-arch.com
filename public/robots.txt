@@ -16,4 +16,4 @@ Allow: /galeri
 Allow: /iletisim
 Disallow: /kvkk
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://boop-arch.com/sitemap.xml

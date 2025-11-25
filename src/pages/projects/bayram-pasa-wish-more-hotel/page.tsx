@@ -23,10 +23,12 @@ const BayrampasaWishMoreHotelPage = () => {
   const openLightbox = (index: number) => {
     setCurrentImageIndex(index);
     setLightboxOpen(true);
+    document.body.style.overflow = 'hidden';
   };
 
   const closeLightbox = () => {
     setLightboxOpen(false);
+    document.body.style.overflow = 'unset';
   };
 
   const nextImage = () => {
